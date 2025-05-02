@@ -41,7 +41,7 @@ Windows CMD Command Explorer is a batch-based utility that simplifies access to 
 
 1. **Download the repository** as a ZIP file or clone it using Git:
    ```
-   git clone https://github.com/yourusername/WindowsCMD.git
+   git clone https://github.com/Digital-Synergy2024/WindowsCMD.git
    ```
 
 2. **Extract all files** to a location of your choice (e.g., `C:\Users\YourName\Desktop\WindowCMD\`)
